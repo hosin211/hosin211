@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning **UI/UX design**
 
-- 👨‍💻 All of my projects are available  [her](https://github.com/hosin211?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/hosin211?tab=repositories)
 
 - 📫 To reach [me](mailto:hussinthamer@gmail.com?)
 
 
 
-- 📄 Know about my experiences [https://raw.githubusercontent.com/hosin211/hosin211/d96de80fda40c066ed93f4555d689fb364025f3f/hussein%20thamer%20sadeq.pdf](https://raw.githubusercontent.com/hosin211/hosin211/d96de80fda40c066ed93f4555d689fb364025f3f/hussein%20thamer%20sadeq.pdf)
+- 📄 Know about my experiences [here]https://raw.githubusercontent.com/hosin211/hosin211/d96de80fda40c066ed93f4555d689fb364025f3f/hussein%20thamer%20sadeq.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
