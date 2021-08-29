@@ -10,7 +10,7 @@
 
 
 
-- 📄 Know about my experiences [here]https://raw.githubusercontent.com/hosin211/hosin211/d96de80fda40c066ed93f4555d689fb364025f3f/hussein%20thamer%20sadeq.pdf)
+- 📄 Know about my experiences [here](https://raw.githubusercontent.com/hosin211/hosin211/d96de80fda40c066ed93f4555d689fb364025f3f/hussein%20thamer%20sadeq.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
