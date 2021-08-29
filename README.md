@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img src="https://github.com/hosin211/hosin211/raw/main/wave.gif" width="30px">
+<h1 align="center">Hi  <img src="https://github.com/hosin211/hosin211/raw/main/wave.gif" width="30px">
  , I'm hussein thamer</h1>
 <h3 align="center">A passionate flutter developer</h3>
 
