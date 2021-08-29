@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **UI/UX design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hosin211?tab=repositories](https://github.com/hosin211?tab=repositories)
+- 👨‍💻 All of my projects are available at [her](https://github.com/hosin211?tab=repositories)
 
-- 📫 How to reach me **hussinthamer@gmail.com**
+- 📫 To reach me <a href="mailto:hussinthamer@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 - 📄 Know about my experiences [https://raw.githubusercontent.com/hosin211/hosin211/d96de80fda40c066ed93f4555d689fb364025f3f/hussein%20thamer%20sadeq.pdf](https://raw.githubusercontent.com/hosin211/hosin211/d96de80fda40c066ed93f4555d689fb364025f3f/hussein%20thamer%20sadeq.pdf)
 
