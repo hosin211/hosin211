@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **UI/UX design**
 
-- 👨‍💻 All of my projects are available at [her](https://github.com/hosin211?tab=repositories)
+- 👨‍💻 All of my projects are available  [her](https://github.com/hosin211?tab=repositories)
 
 - 📫 To reach [me](mailto:hussinthamer@gmail.com?)
 
