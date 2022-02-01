@@ -5,7 +5,7 @@
  , I'm hussein thamer</h1>
 <h3 align="center">A passionate flutter developer</h3>
 
-- 🌱 I’m currently learning **UI/UX design**
+- 🌱 I’m currently learning **Python and Django**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/hosin211?tab=repositories)
 
