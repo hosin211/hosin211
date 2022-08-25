@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Python and Django**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/hosin211?tab=repositories)
 
 - 📫 To reach [me](mailto:hussinthamer@gmail.com?)
 
