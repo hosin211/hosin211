@@ -15,15 +15,16 @@ Most of my production work lives in **private repositories** (client and employe
 - Cut backend **CI time from 2 hours to 49 minutes**
 - 608+ merged PRs · 2,300+ code reviews
 
-## Systems I built alone and still operate
+## Systems I built alone and still operate (since 2023)
 
 | System | Scale | What it does |
 |---|---|---|
-| **Two Rivers ERP** | 200+ university staff daily | HR, payroll, finance and document workflows for Al-Nahrain University |
-| **KMS** | 2 power plants · 400+ users | Maintenance management: fault notifications, work orders, shift operations |
-| **College platform** | 2,000+ students | Student records, courses and administration for a university college |
+| **The Two Rivers** — university ERP | 5 colleges · 200+ staff daily | Every student record (admission→graduation), payroll & HR, finance, research publications, and generated official Arabic letters & certificates — Al-Nahrain University |
+| **KMS** — plant maintenance | 2 power plants · 400+ users | Faults→work orders, the 5 safety permit types, spare-parts inventory & purchase orders, auto-generated shift tasks |
 
-Each one: my architecture, my code, my pager. Full write-ups with diagrams in [production-systems](https://github.com/hosin211/production-systems).
+Both: my architecture, my code, my pager. Full write-ups with diagrams in [production-systems](https://github.com/hosin211/production-systems).
+
+**Before Apicbase (2021-2023):** Head of the Software Systems & Networks Unit at Al-Hadi University College — built V1 of the college management platform solo (2,000+ students, digital admissions with e-payments, student self-service portal), then led the 3-engineer team.
 
 ## How I work
 
