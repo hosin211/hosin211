@@ -1,20 +1,25 @@
 # Hi, I'm Hussein 👋
 
-**Backend engineer · Python & Django · 5 years · Baghdad**
+Backend engineer. 5 years of Python and Django. Based in Baghdad.
 
 I like owning systems end to end: design them, ship them, run them, and carry the pager for them.
 
-🏢 **By day** I build multi-tenant SaaS at [Apicbase](https://apicbase.com) (Belgian food-tech, 500+ client locations) — event-driven pipelines on Amazon SQS + Celery, per-object permissions across 500+ tenants, and a CI pipeline I cut from 2 hours to 49 minutes.
+## What I do
 
-🛠️ **On my own** I built, and still run solo, two production systems:
-- **The Two Rivers** — an ERP for Al-Nahrain University: 5 colleges, 200+ staff every day
-- **KMS** — maintenance management for two power plants: 400+ users, from fault to work order to safety permits
+**At work** — I'm a backend engineer on the team behind [Apicbase](https://apicbase.com), a multi-tenant food-tech SaaS with 500+ client locations. My own contributions there: the event-driven inventory pipeline on Amazon SQS + Celery, a per-object permission refactor across 500+ tenants, and cutting our CI from 2 hours to 49 minutes.
 
-Their code is private (client systems), so I wrote real case studies instead — architecture, domain models and the decisions behind them:
+**On my own** — two production systems I built solo and still run:
 
-### 👉 [**production-systems** — the full case studies](https://github.com/hosin211/production-systems)
+| System | Scale |
+|---|---|
+| **The Two Rivers** — university ERP | 5 colleges · 200+ staff daily |
+| **KMS** — power-plant operations platform | 2 plants · 400+ users |
 
-🤖 **How I work:** Claude Code every day, with my own worktree tooling to run coding agents in parallel.
+Their code is private (client systems), so I wrote real case studies instead — architecture, domain models, and the decisions behind them:
+
+**→ [production-systems: the full case studies](https://github.com/hosin211/production-systems)**
+
+**How I work** — Claude Code every day, with my own worktree tooling to run coding agents in parallel.
 
 ## Stack
 
@@ -28,7 +33,6 @@ Their code is private (client systems), so I wrote real case studies instead —
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat&logo=htmx&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
 
 ## Contact
