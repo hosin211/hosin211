@@ -23,17 +23,17 @@ Their code is private (client systems), so I wrote real case studies instead —
 
 ## Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST-A30000?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
-![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat&logo=htmx&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat&logo=vuedotjs&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
+![Python](badges/python.svg)
+![Django](badges/django.svg)
+![Django REST](badges/drf.svg)
+![PostgreSQL](badges/postgresql.svg)
+![Celery](badges/celery.svg)
+![Redis](badges/redis.svg)
+![AWS](badges/aws.svg)
+![Docker](badges/docker.svg)
+![HTMX](badges/htmx.svg)
+![Vue.js 3](badges/vue.svg)
+![Claude Code](badges/claude-code.svg)
 
 ## Contact
 
