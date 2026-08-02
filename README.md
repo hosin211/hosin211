@@ -6,7 +6,7 @@ I like owning systems end to end: design them, ship them, run them, and carry th
 
 ## What I do
 
-**At work** — I'm a backend engineer on the team behind [Apicbase](https://apicbase.com), a multi-tenant food-tech SaaS with 500+ client locations. My own contributions there: the event-driven inventory pipeline on Amazon SQS + Celery, a per-object permission refactor across 500+ tenants, and cutting our CI from 2 hours to 49 minutes.
+**At work** — I'm a backend engineer on the team behind [Apicbase](https://apicbase.com), a multi-tenant food-tech SaaS with 500+ client locations. My own contributions there: the event-driven inventory pipeline on Amazon SQS + Celery, a per-object permission refactor across every tenant, and cutting our CI from 2 hours to 49 minutes.
 
 **On my own** — two production systems I built solo and still run:
 
