@@ -1,19 +1,19 @@
 # Hi, I'm Hussein 👋
 
-Backend engineer. 5 years of Python and Django. Based in Baghdad.
+Backend / full stack developer. 5 years of Python and Django. Based in Baghdad.
 
 I like owning systems end to end: design them, ship them, run them, and carry the pager for them.
 
 ## What I do
 
-**At work** — I'm a backend engineer on the team behind [Apicbase](https://apicbase.com), a multi-tenant food-tech SaaS with 500+ client locations. My own contributions there: the event-driven inventory pipeline on Amazon SQS + Celery, a per-object permission refactor across every tenant, and cutting our CI from 2 hours to 49 minutes.
+**At work** — I'm a full stack developer on the team behind [Apicbase](https://apicbase.com), a multi-tenant food-tech SaaS with 500+ client locations. My own contributions there: the event-driven inventory pipeline on Amazon SQS + Celery, a per-object permission refactor across every tenant, and cutting our CI from 2 hours to 49 minutes.
 
 **On my own** — two production systems I built solo and still run:
 
 | System | Scale |
 |---|---|
-| **The Two Rivers** — university ERP | 5 colleges · 200+ staff daily |
-| **KMS** — power-plant operations platform | 2 plants · 400+ users |
+| **The Two Rivers** — university ERP | every college of Al-Nahrain University · 200+ staff daily |
+| **KMS** — power-plant operations platform | 2 plants · 200+ engineers each · 20,000+ work orders |
 
 Their code is private (client systems), so I wrote real case studies instead — architecture, domain models, and the decisions behind them:
 
