@@ -12,7 +12,7 @@ I like owning systems end to end: design them, ship them, run them, and carry th
 
 | System | Scale |
 |---|---|
-| **The Two Rivers** — university ERP | every college of Al-Nahrain University · 200+ staff daily |
+| **The Two Rivers** — university ERP | six colleges of Al-Nahrain University · 200+ staff daily |
 | **KMS** — power-plant operations platform | 2 plants · 200+ engineers each · 20,000+ work orders |
 
 Their code is private (client systems), so I wrote real case studies instead — architecture, domain models, and the decisions behind them:
